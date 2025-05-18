@@ -33,7 +33,6 @@
 ## 📌 Featured Projects
 [Check out my pinned repositories below ⬇️ to see my work in development, design, and more.]
 
-## 📫 Connect With Me
-- 📍 Based in Tamil Nadu, India
-- 💼 [LinkedIn](https://linkedin.com/in/your-link-here)
-- 🧑‍💻 GitHub: [github.com/rsooryaprakash](https://github.com/rsooryaprakash)
+## 📫 Connect With Me 
+- 💼 LinkedIn: [LinkedIn]linkedin.com/in/r-soorya-prakash
+- 🧑‍💻 GitHub: [https://github.com/rsooryaprakash](https://github.com/soorya27)
