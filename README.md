@@ -34,5 +34,5 @@
 [Check out my pinned repositories below ⬇️ to see my work in development, design, and more.]
 
 ## 📫 Connect With Me 
-- 💼 LinkedIn: [LinkedIn]linkedin.com/in/r-soorya-prakash
-- 🧑‍💻 GitHub: [https://github.com/rsooryaprakash](https://github.com/soorya27)
+- 💼 LinkedIn: linkedin.com/in/r-soorya-prakash
+- 🧑‍💻 GitHub: [https://github.com/soorya27](https://github.com/soorya27)
