@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm R. Soorya Prakash!
 
-<!--
-**soorya27/soorya27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science Engineering student from Anna University, passionate about building and designing digital solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💡 Exploring the world of software development, UI design, and backend systems.
+- 👨‍💻 Skilled in **C++**, **Java**, **SQL**, and familiar with tools like **VS Code** and **Canva**.
+- 🎯 Currently working on personal projects in data structures, database systems, and creative design.
+- 📚 Learning more about **System Design** and scalable app development.
+- 🌱 Always ready to take on new challenges and grow as a developer.
+ 
+### 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Languages
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+
+#### 💾 Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+#### 🧰 Tools & IDEs
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+#### 📚 Concepts
+![OOP](https://img.shields.io/badge/-OOP-007ACC?style=flat) 
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-blueviolet?style=flat)
+![SDLC](https://img.shields.io/badge/-SDLC-007ACC?style=flat)
+
+## 📌 Featured Projects
+[Check out my pinned repositories below ⬇️ to see my work in development, design, and more.]
+
+## 📫 Connect With Me
+- 📍 Based in Tamil Nadu, India
+- 💼 [LinkedIn](https://linkedin.com/in/your-link-here)
+- 🧑‍💻 GitHub: [github.com/rsooryaprakash](https://github.com/rsooryaprakash)
