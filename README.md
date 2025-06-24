@@ -1,4 +1,4 @@
-# 👋 Hi, I'm R. Soorya Prakash!
+# 👋 Hi! I'm R Soorya Prakash
 
 🎓 I'm a *Computer Science Engineering* student from **Anna University**, passionate about building and designing digital solutions.
 
