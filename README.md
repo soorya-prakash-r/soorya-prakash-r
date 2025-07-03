@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 💡 Exploring the world of software development, UI design, and backend systems.
-- 👨‍💻 Skilled in **C++**, **Java**, **SQL**, and familiar with tools like **VS Code** and **Canva**.
+- 👨‍💻 Skilled in **Python**, **C++**, **Java**, **JavaScript**, **SQL**, and familiar with tools like **VS Code** and **Canva**.
 - 🎯 Currently working on personal projects in data structures, database systems, and creative design.
 - 📚 Learning more about **System Design** and scalable app development.
 - 🌱 Always ready to take on new challenges and grow as a developer.
@@ -56,3 +56,5 @@
 ## 📫 Connect With Me 
 - 💼 LinkedIn: [linkedin.com/in/r-soorya-prakash](https://www.linkedin.com/in/r-soorya-prakash)
 - 🧑‍💻 GitHub: [https://github.com/soorya27](https://github.com/soorya27)
+
+  
