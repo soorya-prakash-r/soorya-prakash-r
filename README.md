@@ -55,6 +55,6 @@
 
 ## 📫 Connect With Me 
 - 💼 LinkedIn: [linkedin.com/in/r-soorya-prakash](https://www.linkedin.com/in/r-soorya-prakash)
-- 🧑‍💻 GitHub: [https://github.com/soorya27](https://github.com/soorya27)
+- 🧑‍💻 GitHub: [https://github.com/soorya-prakash-r](https://github.com/soorya-prakash-r)
 
   
