@@ -47,11 +47,14 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white) 
 
 ## 📌 Featured Projects
-### 1. [Game-Project in C++](https://github.com/soorya27/Game-Project)
+### 1. [Game-Project in C++](https://github.com/soorya-prakash-r/Game-Project)
    A 2D space adventurous game developed using C++ and SDL. The game features vibrant visuals, background music, and engaging gameplay across three levels. Each level includes colorful sprites, dynamic backgrounds, and challenging enemies, all designed to provide an immersive and enjoyable player experience. I independently developed this game over the course of two months. I Planned and managed the entire development process, from initial concept to final release.
 
-### 2. [DBMS-project](https://github.com/soorya27/DBMS-project)
+### 2. [DBMS-project](https://github.com/soorya-prakash-r/DBMS-project)
    A database application designed to efficiently store, retrieve, and manage student information. The system allows users to add new student records, update existing data, and delete records as needed. It ensures data integrity and provides an easy-to-use interface for managing student details such as name, roll number and other information.
+
+### 3. [Promptify! - Website Project](https://github.com/soorya-prakash-r/Promptify_AI_Prompt_Enhancer)
+   Promptify! is a full-stack, AI-powered web application built using the MERN stack (MongoDB, Express.js, React, Node.js), designed to help users enhance AI their vague prompts intelligently. The app integrates Gemini AI APIs and allows users to input, rate, and understand prompt engineering concepts interactively.
 
 ## 📫 Connect With Me 
 - 💼 LinkedIn: [linkedin.com/in/r-soorya-prakash](https://www.linkedin.com/in/r-soorya-prakash)
