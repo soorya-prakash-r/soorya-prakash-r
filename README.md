@@ -27,11 +27,12 @@
 #### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
 
-#### 🛠️ Frameworks and Tools
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+#### 🧰 Tools & Platforms
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white) 
 
 #### 🧠 Soft Skills
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF6B6B?style=flat&logo=lightbulb&logoColor=white)
@@ -41,20 +42,18 @@
 ![Creativity](https://img.shields.io/badge/-Creativity-FFEAA7?style=flat&logo=palette&logoColor=black)
 ![Leadership](https://img.shields.io/badge/-Leadership-DDA0DD?style=flat&logo=crown&logoColor=white) 
 
-#### 🧰 Tools & IDEs
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white) 
-
 ## 📌 Featured Projects
-### 1. [Game-Project in C++](https://github.com/soorya-prakash-r/Game-Project)
+### 1. [Planet X: New World Unveiling - 2D Game in C++](https://github.com/soorya-prakash-r/Game-Project)
    A 2D space adventurous game developed using C++ and SDL. The game features vibrant visuals, background music, and engaging gameplay across three levels. Each level includes colorful sprites, dynamic backgrounds, and challenging enemies, all designed to provide an immersive and enjoyable player experience. I independently developed this game over the course of two months. I Planned and managed the entire development process, from initial concept to final release.
 
-### 2. [DBMS-project](https://github.com/soorya-prakash-r/DBMS-project)
+### 2. [Promptify! - AI prompt engineering tool](https://github.com/soorya-prakash-r/Promptify_AI_Prompt_Enhancer)
+   Promptify! is a full-stack, AI-powered web application built using the MERN stack (MongoDB, Express.js, React, Node.js), designed to help users enhance AI their vague prompts intelligently. The app integrates Gemini AI APIs and allows users to input, rate, and understand prompt engineering concepts interactively.
+   
+   Live Site:  [wepromptify.in](wepromptify.in)
+   
+### 3. [DBMS-project](https://github.com/soorya-prakash-r/DBMS-project)
    A database application designed to efficiently store, retrieve, and manage student information. The system allows users to add new student records, update existing data, and delete records as needed. It ensures data integrity and provides an easy-to-use interface for managing student details such as name, roll number and other information.
 
-### 3. [Promptify! - Website Project](https://github.com/soorya-prakash-r/Promptify_AI_Prompt_Enhancer)
-   Promptify! is a full-stack, AI-powered web application built using the MERN stack (MongoDB, Express.js, React, Node.js), designed to help users enhance AI their vague prompts intelligently. The app integrates Gemini AI APIs and allows users to input, rate, and understand prompt engineering concepts interactively.
 
 ## 📫 Connect With Me 
 - 💼 LinkedIn: [linkedin.com/in/r-soorya-prakash](https://www.linkedin.com/in/r-soorya-prakash)
