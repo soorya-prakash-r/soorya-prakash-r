@@ -49,7 +49,7 @@
 ### 2. [Promptify! - AI prompt engineering tool](https://github.com/soorya-prakash-r/Promptify_AI_Prompt_Enhancer)
    Promptify! is a full-stack, AI-powered web application built using the MERN stack (MongoDB, Express.js, React, Node.js), designed to help users enhance AI their vague prompts intelligently. The app integrates Gemini AI APIs and allows users to input, rate, and understand prompt engineering concepts interactively.
    
-   Live Site:  [wepromptify.in](wepromptify.in)
+   Live Site:  [wepromptify.in](https://wepromptify.in)
    
 ### 3. [DBMS-project](https://github.com/soorya-prakash-r/DBMS-project)
    A database application designed to efficiently store, retrieve, and manage student information. The system allows users to add new student records, update existing data, and delete records as needed. It ensures data integrity and provides an easy-to-use interface for managing student details such as name, roll number and other information.
