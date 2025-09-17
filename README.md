@@ -43,15 +43,22 @@
 ![Leadership](https://img.shields.io/badge/-Leadership-DDA0DD?style=flat&logo=crown&logoColor=white) 
 
 ## 📌 Featured Projects
-### 1. [Planet X: New World Unveiling - 2D Game in C++](https://github.com/soorya-prakash-r/Game-Project)
-   A 2D space adventurous game developed using C++ and SDL. The game features vibrant visuals, background music, and engaging gameplay across three levels. Each level includes colorful sprites, dynamic backgrounds, and challenging enemies, all designed to provide an immersive and enjoyable player experience. I independently developed this game over the course of two months. I Planned and managed the entire development process, from initial concept to final release.
+### 1. Damszt-Handsfree Calz
+   Damszt – Handsfree Calz is a voice-powered calculator built for a seamless, hands-free experience. Designed with modern users in mind, it allows you to perform calculations simply by speaking, eliminating the need for manual input.
+From basic arithmetic to more advanced operations, Damszt supports a wide range of built-in calculation types to meet everyday and professional needs.
+Its hands-free nature makes it ideal for multitasking, ensuring you can focus on your work while still getting accurate results. It's also a great accessibility tool, enabling effortless interaction for those who prefer or require voice control. Whether in a smart desk setup, an office, or at home, Damszt brings speed, convenience, and innovation to the way you calculate.
+
+   Download the App now from Microsoft Store: [damszt-handsfree-calz](https://apps.microsoft.com/detail/9PLMQZ3FKM4Z?hl=en-us&gl=IN&ocid=pdpshare)
 
 ### 2. [Promptify! - AI prompt engineering tool](https://github.com/soorya-prakash-r/Promptify_AI_Prompt_Enhancer)
    Promptify! is a full-stack, AI-powered web application built using the MERN stack (MongoDB, Express.js, React, Node.js), designed to help users enhance AI their vague prompts intelligently. The app integrates Gemini AI APIs and allows users to input, rate, and understand prompt engineering concepts interactively.
    
    Live Site:  [wepromptify.in](https://wepromptify.in)
+
+### 3. [Planet X: New World Unveiling - 2D Game in C++](https://github.com/soorya-prakash-r/Game-Project)
+   A 2D space adventurous game developed using C++ and SDL. The game features vibrant visuals, background music, and engaging gameplay across three levels. Each level includes colorful sprites, dynamic backgrounds, and challenging enemies, all designed to provide an immersive and enjoyable player experience. I independently developed this game over the course of two months. I Planned and managed the entire development process, from initial concept to final release.
    
-### 3. [DBMS-project](https://github.com/soorya-prakash-r/DBMS-project)
+### 4. [DBMS-project](https://github.com/soorya-prakash-r/DBMS-project)
    A database application designed to efficiently store, retrieve, and manage student information. The system allows users to add new student records, update existing data, and delete records as needed. It ensures data integrity and provides an easy-to-use interface for managing student details such as name, roll number and other information.
 
 
