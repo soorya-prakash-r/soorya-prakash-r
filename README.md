@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 💡 Exploring the world of software development, UI design, and backend systems.
-- 👨‍💻 Skilled in **Python**, **C++**, **Java**, **JavaScript**, **SQL**, and familiar with tools like **VS Code** and **Canva**.
+- 👨‍💻 Skilled in **Python**, **C++**, **Java**, **SQL**, and familiar with tools like **VS Code** and **Canva**.
 - 🎯 Currently working on personal projects in data structures, database systems, and creative design.
 - 📚 Learning more about **System Design** and scalable app development.
 - 🌱 Always ready to take on new challenges and grow as a developer.
@@ -15,7 +15,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 #### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
