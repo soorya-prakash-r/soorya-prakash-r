@@ -3,7 +3,7 @@
 Computer Science Engineering Undergrad at **Anna University** turning passion into production-ready software.
 What do I do?
 
-Building scalable full-stack applications, intelligent developer tooling, and desktop solutions. Previously interned as a **Platform Firmware Engineer Intern at Western Digital**, diving deep into enterprise systems and API infrastructure.
+Building scalable full-stack applications, intelligent developer tooling, and desktop solutions. Previously interned as a **Platform Firmware Engineer Intern at Western Digital**, diving deep into storage platforms and API infrastructure.
 
 ## ⚡ Projects That Keep Me Awake
 
@@ -25,7 +25,7 @@ Built a 2D space adventure game from scratch using **C++** and **SDL**. Implemen
 ## 💼 Experience & Roles
 
 - **Western Digital** — *Platform Firmware Engineer Intern* (May 2026 – July 2026)
-  - Built diagnostic tools and web crawlers for Out-of-Band Management and enterprise storage platform operations.
+  - Built diagnostic tools and web crawlers for Out-of-Band Management (OOBM) and enterprise storage platform operations.
 - **Association of Computer Technology (ACT), MIT Campus** — *Active Member*
   - Won the **TRIGGER '25 Mega Event** in competitive programming and technical HR rounds.
 - **Youth Red Cross** — *Graphic Designer*
