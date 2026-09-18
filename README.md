@@ -1,68 +1,47 @@
-# 👋 Hi! I'm Soorya Prakash R
+# 🚀 Hello World! I'm Soorya Prakash R
 
-🎓 I'm a *Computer Science Engineering* student from **Anna University**, passionate about building and designing digital solutions.
+Computer Science Engineering Undergrad at **Anna University** turning passion into production-ready software.
+What do I do?
 
-## 🚀 About Me
-- 💡 Exploring the world of software development, UI design, and backend systems.
-- 👨‍💻 Skilled in **Python**, **C++**, **Java**, **SQL**, and familiar with tools like **VS Code** and **Canva**.
-- 🎯 Currently working on personal projects in data structures, database systems, and creative design.
-- 📚 Learning more about **System Design** and scalable app development.
-- 🌱 Always ready to take on new challenges and grow as a developer.
- 
+Building scalable full-stack applications, intelligent developer tooling, and desktop solutions. Previously interned as a **Platform Firmware Engineer Intern at Western Digital**, diving deep into enterprise systems and API infrastructure.
+
+## ⚡ Projects That Keep Me Awake
+
+### 🎙️ [Damszt - Handsfree Calz](https://apps.microsoft.com/detail/9PLMQZ3FKM4Z?hl=en-us&gl=IN&ocid=pdpshare)
+*Published on the Microsoft Store*
+
+Built a voice-controlled calculator application using Python, Kivy, and SymPy with real-time speech recognition and text-to-speech engine integration. Designed specifically for multitasking and accessibility in smart-desk environments.
+
+### 🤖 [Promptify! - AI Prompt Engineering Platform](https://github.com/soorya-prakash-r/Promptify_AI_Prompt_Enhancer)
+
+Designed and deployed a full-stack MERN application integrated with Gemini AI APIs to optimize, evaluate, and rate user prompts interactively. Features structured prompt evaluation and conceptual learning workflows.
+
+### 🔍 [GlassBox - Automated Code Documentation Tool](https://github.com/soorya-prakash-r/GlassBox-CIP)
+Automated software documentation framework using **Tree-sitter** for Abstract Syntax Tree (AST) parsing and a fine-tuned **DeepSeek-Coder 1.3B** model to generate precise inline code summaries.
+
+### 🎮 [Planet X: New World Unveiling](https://github.com/soorya-prakash-r/2D-Game-Project)
+Built a 2D space adventure game from scratch using **C++** and **SDL**. Implemented custom game mechanics, sprite animation, background audio, collision detection, and dynamic multi-level maps.
+
+## 💼 Experience & Roles
+
+- **Western Digital** — *Platform Firmware Engineer Intern* (May 2026 – July 2026)
+  - Built diagnostic tools and web crawlers for Out-of-Band Management and enterprise storage platform operations.
+- **Association of Computer Technology (ACT), MIT Campus** — *Active Member*
+  - Won the **TRIGGER '25 Mega Event** in competitive programming and technical HR rounds.
+- **Youth Red Cross** — *Graphic Designer*
+  - Created posters for YRC events.
+
 ## 🚀 Tech Stack
 
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- **Languages:** Python • C++ • Java • JavaScript • SQL
+- **Web & Backend:** React.js • Node.js • Express.js • HTML • CSS
+- **Databases:** MongoDB • MySQL • Oracle SQL
+- **Tools & Frameworks:** Kivy • SymPy • Tree-sitter • Git/GitHub • VS Code • Canva
 
-#### 🌐 Web Development
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+## 📬 Ping Me!
 
-#### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+Always excited to discuss software systems, AI integration, and full-stack architecture.
 
-#### 🧰 Tools & Platforms
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white) 
+- **LinkedIn:** [linkedin.com/in/r-soorya-prakash](https://www.linkedin.com/in/r-soorya-prakash)
 
-#### 🧠 Soft Skills
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF6B6B?style=flat&logo=lightbulb&logoColor=white)
-![Critical Thinking](https://img.shields.io/badge/-Critical%20Thinking-4ECDC4?style=flat&logo=brain&logoColor=white)
-![Collaboration](https://img.shields.io/badge/-Collaboration-45B7D1?style=flat&logo=handshake&logoColor=white)
-![Active Listening](https://img.shields.io/badge/-Active%20Listening-96CEB4?style=flat&logo=ear&logoColor=white)
-![Creativity](https://img.shields.io/badge/-Creativity-FFEAA7?style=flat&logo=palette&logoColor=black)
-![Leadership](https://img.shields.io/badge/-Leadership-DDA0DD?style=flat&logo=crown&logoColor=white) 
-
-## 📌 Featured Projects
-### 1. Damszt-Handsfree Calz
-   Damszt – Handsfree Calz is a voice-powered calculator built for a seamless, hands-free experience. Designed with modern users in mind, it allows you to perform calculations simply by speaking, eliminating the need for manual input.
-From basic arithmetic to more advanced operations, Damszt supports a wide range of built-in calculation types to meet everyday and professional needs.
-Its hands-free nature makes it ideal for multitasking, ensuring you can focus on your work while still getting accurate results. It's also a great accessibility tool, enabling effortless interaction for those who prefer or require voice control. Whether in a smart desk setup, an office, or at home, Damszt brings speed, convenience, and innovation to the way you calculate.
-
-   Download the App now from Microsoft Store: [damszt-handsfree-calz](https://apps.microsoft.com/detail/9PLMQZ3FKM4Z?hl=en-us&gl=IN&ocid=pdpshare)
-
-### 2. [Promptify! - AI prompt engineering tool](https://github.com/soorya-prakash-r/Promptify_AI_Prompt_Enhancer)
-   Promptify! is a full-stack, AI-powered web application built using the MERN stack (MongoDB, Express.js, React, Node.js), designed to help users enhance AI their vague prompts intelligently. The app integrates Gemini AI APIs and allows users to input, rate, and understand prompt engineering concepts interactively.
-   
-   Live Site:  [wepromptify.in](https://wepromptify.in)
-
-### 3. [Planet X: New World Unveiling - 2D Game in C++](https://github.com/soorya-prakash-r/Game-Project)
-   A 2D space adventurous game developed using C++ and SDL. The game features vibrant visuals, background music, and engaging gameplay across three levels. Each level includes colorful sprites, dynamic backgrounds, and challenging enemies, all designed to provide an immersive and enjoyable player experience. I independently developed this game over the course of two months. I Planned and managed the entire development process, from initial concept to final release.
-   
-### 4. [DBMS-project](https://github.com/soorya-prakash-r/DBMS-project)
-   A database application designed to efficiently store, retrieve, and manage student information. The system allows users to add new student records, update existing data, and delete records as needed. It ensures data integrity and provides an easy-to-use interface for managing student details such as name, roll number and other information.
-
-
-## 📫 Connect With Me 
-- 💼 LinkedIn: [linkedin.com/in/r-soorya-prakash](https://www.linkedin.com/in/r-soorya-prakash)
-- 🧑‍💻 GitHub: [https://github.com/soorya-prakash-r](https://github.com/soorya-prakash-r)
-
-  
+*P.S. If the code compiles on the first try, check your unit tests.*
