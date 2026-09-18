@@ -17,7 +17,7 @@ Built a voice-controlled calculator application using Python, Kivy, and SymPy wi
 Designed and deployed a full-stack MERN application integrated with Gemini AI APIs to optimize, evaluate, and rate user prompts interactively. Features structured prompt evaluation and conceptual learning workflows.
 
 ### 🔍 [GlassBox - Automated Code Documentation Tool](https://github.com/soorya-prakash-r/GlassBox-CIP)
-Automated software documentation framework using **Tree-sitter** for Abstract Syntax Tree (AST) parsing and a fine-tuned **DeepSeek-Coder 1.3B** model to generate precise inline code summaries.
+AI powered automated software documentation tool using **Tree-sitter** for Abstract Syntax Tree (AST) parsing and a fine-tuned **DeepSeek-Coder 1.3B** model to generate precise inline code summaries.
 
 ### 🎮 [Planet X: New World Unveiling](https://github.com/soorya-prakash-r/2D-Game-Project)
 Built a 2D space adventure game from scratch using **C++** and **SDL**. Implemented custom game mechanics, sprite animation, background audio, collision detection, and dynamic multi-level maps.
