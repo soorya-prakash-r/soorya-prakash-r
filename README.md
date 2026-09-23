@@ -19,6 +19,9 @@ Designed and deployed a full-stack MERN application integrated with Gemini AI AP
 ### 🔍 [GlassBox - Automated Code Documentation Tool](https://github.com/soorya-prakash-r/GlassBox-CIP)
 AI powered automated software documentation tool using **Tree-sitter** for Abstract Syntax Tree (AST) parsing and a fine-tuned **DeepSeek-Coder 1.3B** model to generate precise inline code summaries.
 
+### 📝 [Noted! - AI Powered Note Taking Web App](https://github.com/soorya-prakash-r/Noted-AI-powered-Notes-Taking-app)
+AI-powered note-taking web application using **Flask** for backend routing and the **Gemini AI API** to enhance notes with grammar correction, clarity improvement, and smart phrasing suggestions.
+
 ### 🎮 [Planet X: New World Unveiling](https://github.com/soorya-prakash-r/2D-Game-Project)
 Built a 2D space adventure game from scratch using **C++** and **SDL**. Implemented custom game mechanics, sprite animation, background audio, collision detection, and dynamic multi-level maps.
 
