@@ -43,5 +43,6 @@ Built a 2D space adventure game from scratch using **C++** and **SDL**. Implemen
 Always excited to discuss software systems, AI integration, and full-stack architecture.
 
 - **LinkedIn:** [linkedin.com/in/r-soorya-prakash](https://www.linkedin.com/in/r-soorya-prakash)
+- **Mail:** [r.sooryaprakash2704@gmail.com](mailto:r.sooryaprakash2704@gmail.com)
 
 *P.S. If the code compiles on the first try, check your unit tests.*
